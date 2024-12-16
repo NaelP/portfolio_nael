@@ -2,7 +2,7 @@
   "basics": {
     "name": "Naël Pannetier",
     "label": "Full Stack Developer",
-    "image": "/me_avatar.jpg",
+    "image": "./me_avatar.jpg",
     "email": "pannetier.nael@gmail.com",
     "phone": "+1 437 249 2153",
     "url": "https://johndoe.dev",
