@@ -50,6 +50,9 @@
         "Estimation of working hours needed for projects",
         "Exchange directly with clients, sometimes in emergency, to discuss new features creation, upgrades, updates..."
       ],
+      "achievements": [
+        ""
+      ],
       "skills": [
         "PHP", "JavaScript", "Jquery", "SQL", "REST APIs", "Git", "JIRA", "Symfony"
       ]
