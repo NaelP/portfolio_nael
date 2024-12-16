@@ -87,12 +87,13 @@
       "startDate": "2014",
       "endDate": "2016"
   }
-  ],
+  ], 
   "certificates": [
     {
       "name": "Web/Web Mobile Developer",
       "date": "2020-06-05",
-      "issuer": "Professional institution"
+      "issuer": "Professional institution",
+      "url": ""
     }
   ],
   "skills": [
