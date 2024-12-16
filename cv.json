@@ -1,0 +1,231 @@
+{
+  "basics": {
+    "name": "Naël Pannetier",
+    "label": "Full Stack Developer",
+    "image": "/me_avatar.jpg",
+    "email": "pannetier.nael@gmail.com",
+    "phone": "+1 437 249 2153",
+    "url": "https://johndoe.dev",
+    "summary": "Involved and naturally curious with over 4 years of experience in web development. Strong ability of autonomy and a mindset of never giving up. Used to large data sets, skilled in PHP, Javascript, SQL, HTML/CSS and actively learning React framework.",
+    "theme": "green",
+    "location": {
+      "address": "360 Margueretta St",
+      "postalCode": "M6H 3S5",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Naël Pannetier",
+        "url": "https://www.linkedin.com/in/nael-pannetier-972257145/"
+      },
+      {
+        "network": "GitHub",
+        "username": "NaelP",
+        "url": "https://github.com/NaelP"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TOPDATA",
+      "position": "Full Stack Web Developer",
+      "location_type": "Full remote",
+      "location": "France",
+      "url": "https://www.topdata.fr/",
+      "startDate": "2020-11-01",
+      "endDate": "2024-08-01",
+      "summary": "Developed full-stack web applications using PHP (Symfony framework), JavaScript, and SQL.",
+      "highlights": [
+        "Rest API’s creation, maintenance and redaction of documentation",
+        "Fixing bugs and adding features using JIRA for the ticketing",
+        "Using git versionning for keeping track of the code and easily team working",
+        "Development of big project for a client with an online shop : monthly subscription, Mail templating creation (API), Discount code creation (API)",
+        "Reducing time loading of pages using php logs and debugging tools"
+      ],
+      "responsibilities": [
+        "Deliver project on time with deadlines",
+        "Estimation of working hours needed for projects",
+        "Exchange directly with clients, sometimes in emergency, to discuss new features creation, upgrades, updates..."
+      ],
+      "skills": [
+        "PHP", "JavaScript", "Jquery", "SQL", "REST APIs", "Git", "JIRA", "Symfony"
+      ]
+    },
+    {
+      "name": "EMITY",
+      "position": "Full Stack Web Developer (Internship)",
+      "location_type": "On site",
+      "location": "France",
+      "startDate": "2020-04-01",
+      "endDate": "2020-06-01",
+      "summary": "First experience in web development by contributing to front-end and back-end tasks, including creating interactive features using JavaScript libraries.",
+      "skills": [
+        "JavaScript", "Turn.js", "HTML/CSS", "PHP"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Professional title (Bachelor’s degree)",
+      "url": "",
+      "area": "Web Development",
+      "studyType": "Bachelor",
+      "startDate": "2019",
+      "endDate": "2020"
+  },
+  {
+      "institution": "Jules Guesde High School",
+      "url": "",
+      "area": "Accounting",
+      "studyType": "Degree",
+      "startDate": "2014",
+      "endDate": "2016"
+  }
+  ],
+  "certificates": [
+    {
+      "name": "Web/Web Mobile Developer",
+      "date": "2020-06-05",
+      "issuer": "Professional institution"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Php",
+      "level": "Intermediate",
+      "keywords": [
+        "Back-End",
+        "POO"      
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Intermediate",
+      "keywords": [
+        "Back-End",
+        "Framework"     
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Video Games",
+        "Boxing",
+        "Sport"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
+    }
+  ]
+}
