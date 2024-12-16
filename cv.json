@@ -37,7 +37,7 @@
       "url": "https://www.topdata.fr/",
       "startDate": "2020-11-01",
       "endDate": "2024-08-01",
-      "summary": "Developed full-stack web applications using PHP (Symfony framework), JavaScript, and SQL.",
+      "summary": "Developed full-stack web applications using PHP (Symfony framework), JavaScript, and SQL. Mainly working on a big client selling Aloe products online. Working on big databases containing triggers, stored procedures, functions, etc..",
       "highlights": [
         "Rest API’s creation, maintenance and redaction of documentation",
         "Fixing bugs and adding features using JIRA for the ticketing",
